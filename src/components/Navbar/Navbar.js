@@ -217,7 +217,7 @@ function Navbar() {
 
                         <Fade left>
                             <NavLink
-                                to='/#education'
+                                to='/#firstlegoleague'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -227,48 +227,12 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Education
+                                       Lego League
                                     </span>
                                 </div>
                             </NavLink>
                         </Fade>
-
-                        <Fade left>
-                            <NavLink
-                                to='/#skills'
-                                smooth={true}
-                                spy='true'
-                                duration={2000}
-                            >
-                                <div className={classes.drawerItem}>
-                                    <BsFillGearFill
-                                        className={classes.drawerIcon}
-                                    />
-                                    <span className={classes.drawerLinks}>
-                                        Skills
-                                    </span>
-                                </div>
-                            </NavLink>
-                        </Fade>
-
-                        <Fade left>
-                            <NavLink
-                                to='/#projects'
-                                smooth={true}
-                                spy='true'
-                                duration={2000}
-                            >
-                                <div className={classes.drawerItem}>
-                                    <FaFolderOpen
-                                        className={classes.drawerIcon}
-                                    />
-                                    <span className={classes.drawerLinks}>
-                                        Projects
-                                    </span>
-                                </div>
-                            </NavLink>
-                        </Fade>
-
+                        
                         <Fade left>
                             <NavLink
                                 to='/#contacts'

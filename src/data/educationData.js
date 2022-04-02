@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Ramjas College, Delhi University',
-        course: 'B.A. Honours History',
-        startYear: '2015',
-        endYear: '2018'
+        institution: 'Requirements Gathering',
+        course: 'Robotics',
+        startYear: 'October 2021',
+        endYear: 'January 2022'
     },
     {
         id: 2,
-        institution: 'Delhi University',
-        course: 'M.A. History',
-        startYear: '2019',
-        endYear: '2021'
+        institution: 'Implementation',
+        course: 'Robotics',
+        startYear: 'January 2022',
+        endYear: 'February 2022'
     },
     {
         id: 3,
-        institution: 'Masai School of Coding',
-        course: 'Fullstack Web-Development',
-        startYear: '2021',
-        endYear: 'Present'
+        institution: 'Completion',
+        course: 'Robotics',
+        startYear: 'Febraury 2022',
+        endYear: 'April 2022'
     },
 ]

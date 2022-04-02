@@ -14,11 +14,7 @@ function Main() {
             <Navbar />        
             <Landing />
             <About />
-            <Skills />
             <Education />            
-            <Projects />
-            <Achievement />
-            {/* <Blog /> */}
             <Contacts />
             {/* <Footer /> */}
         </div>
